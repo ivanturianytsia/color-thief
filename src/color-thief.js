@@ -655,3 +655,5 @@ var MMCQ = (function() {
         quantize: quantize
     };
 })();
+
+export default ColorThief
